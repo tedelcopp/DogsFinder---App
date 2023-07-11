@@ -1,0 +1,85 @@
+.MainCreateDog{
+    background: url("./MainCreate - Background.png");    
+    text-align: center;
+    display: flex;   
+    justify-content: center;
+    align-content: center;
+    background-size: 100%;
+    background-repeat:no-repeat;
+  }
+  .msg{
+    /* padding-top: 10px;
+    padding-bottom: 10px; */
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 65px;
+    font-family: Verdana rgb(0, 0, 0);
+    background-color: rgb(114,214,184,255);
+    color: rgb(0, 0, 0); 
+    margin-right: 18cm;
+    }
+   .titles {
+    display:flex;
+    flex-direction: column;
+    padding-bottom: 8px;
+    font-family: Verdana Black;
+    font-size: 13px;   
+    text-decoration:underline;
+    margin-left: 5cm;
+    margin: 0.2cm;
+   }
+  
+  .checks{
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  padding: 1px;
+   }
+  
+   .form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 2%;
+  }
+  .ubicationButtons{
+    display: flex;
+    justify-content: center;
+  }
+  .text{
+    background: rgb(140, 145, 142);
+    border: 1px solid #000000;
+    border-radius: 5px 5px 5px 5px;
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    padding: 7px;
+  }
+  .CreateButton{
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px 10px;  
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+    background: rgb(255, 255, 255);
+    margin-left: 0.2cm;
+  }
+  .ToHomeButton{
+    text-align: center;
+    background: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px 10px;  
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 15px;
+    cursor: pointer;
+  }  
+  .CreateButton:hover{
+   background-color:  rgb(178, 138, 6);
+  }
+  .ToHomeButton:hover{
+    background-color:  rgb(178, 138, 6);
+   }

@@ -1,0 +1,19 @@
+.boton-paginador {
+    border: 2px solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    background-color:rgb(251, 195, 51); 
+    color: rgb(0, 0, 0);
+    font-size: 15.5px;
+}
+.boton-paginador:active {
+    background-color: black;
+}
+.boton-paginador:hover:not(.active) {
+    background-color:rgb(110,212,180);
+}
+.div-paginador {
+    display: flex;
+    justify-content: center;
+    padding: 3.5px;
+}
