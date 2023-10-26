@@ -1,7 +1,4 @@
-# DogsFinder
-Individual project in which I had to create a web page that consumes an API with information about different dog breeds. The project required functionalities such as search, filtering, sorting, and creating a new breed.
-
-Dog Breed Information SPA 🐶
+# Dog Breed Information SPA 🐶
 Welcome to the Dog Breed Information Single Page Application!
 
 # Overview
