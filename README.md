@@ -1,5 +1,5 @@
 # <div align="center">Dog Breed Information SPA 🐶</div>
-<center> Welcome to the Dog Breed Information Single Page Application!</center>
+
 <div align="center" Welcome to the Dog Breed Information Single Page Application!</div>
   
 ## Overview
