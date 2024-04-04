@@ -1,6 +1,6 @@
 # Dog Breed Information SPA 🐶
 
-<h3 aling="center"> Welcome to the Dog Breed Information Single Page Application!<h3/>
+<center> Welcome to the Dog Breed Information Single Page Application!</center>
 
 ## Overview
 This project is a Single Page Application (SPA) designed to provide comprehensive information about various dog breeds. With an array of dynamic features, users can explore, filter, and sort through a wide range of dog breeds. From combined filters and ordering options to breed creation and search functionality, this application offers an immersive experience for dog enthusiasts and learners alike.
