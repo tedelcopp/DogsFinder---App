@@ -23,8 +23,6 @@ This project is a Single Page Application (SPA) designed to provide comprehensiv
   
 - **React.js:** Developed using React.js for efficient component-based architecture and dynamic UI elements.
   
-- **Vite:** Employed Vite as the front-end build tool. To run the application, use `npm run dev` to start the development server.
-  
 - **Express:** Utilized Express.js for server-side functionality. To start the server, use `npm start`.
   
 - **API Integration:** Utilized external API data to populate the application with a variety of dog breeds.
