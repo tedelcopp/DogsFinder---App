@@ -1,4 +1,5 @@
-# Dog Breed Information SPA 🐶
+## Dog Breed Information SPA 🐶
+
 Welcome to the Dog Breed Information Single Page Application!
 
 # Overview
